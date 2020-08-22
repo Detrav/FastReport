@@ -1,0 +1,3 @@
+[submodule "libs/fr_compat"]
+	path = libs/fr_compat
+	url = https://github.com/Detrav/FastReport.Compat.git
